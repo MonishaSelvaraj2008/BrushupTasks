@@ -1,0 +1,29 @@
+D:\MONI\Aspire Training\Code\c#\GarbageCollection\bin\Debug\net7.0\GarbageCollection.exe
+D:\MONI\Aspire Training\Code\c#\GarbageCollection\bin\Debug\net7.0\GarbageCollection.deps.json
+D:\MONI\Aspire Training\Code\c#\GarbageCollection\bin\Debug\net7.0\GarbageCollection.runtimeconfig.json
+D:\MONI\Aspire Training\Code\c#\GarbageCollection\bin\Debug\net7.0\GarbageCollection.dll
+D:\MONI\Aspire Training\Code\c#\GarbageCollection\bin\Debug\net7.0\GarbageCollection.pdb
+D:\MONI\Aspire Training\Code\c#\GarbageCollection\obj\Debug\net7.0\GarbageCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\MONI\Aspire Training\Code\c#\GarbageCollection\obj\Debug\net7.0\GarbageCollection.AssemblyInfoInputs.cache
+D:\MONI\Aspire Training\Code\c#\GarbageCollection\obj\Debug\net7.0\GarbageCollection.AssemblyInfo.cs
+D:\MONI\Aspire Training\Code\c#\GarbageCollection\obj\Debug\net7.0\GarbageCollection.csproj.CoreCompileInputs.cache
+D:\MONI\Aspire Training\Code\c#\GarbageCollection\obj\Debug\net7.0\GarbageCollection.dll
+D:\MONI\Aspire Training\Code\c#\GarbageCollection\obj\Debug\net7.0\refint\GarbageCollection.dll
+D:\MONI\Aspire Training\Code\c#\GarbageCollection\obj\Debug\net7.0\GarbageCollection.pdb
+D:\MONI\Aspire Training\Code\c#\GarbageCollection\obj\Debug\net7.0\GarbageCollection.genruntimeconfig.cache
+D:\MONI\Aspire Training\Code\c#\GarbageCollection\obj\Debug\net7.0\ref\GarbageCollection.dll
+D:\Technical\Tasks-Brushup\Task-1\GarbageCollection\bin\Debug\net7.0\GarbageCollection.exe
+D:\Technical\Tasks-Brushup\Task-1\GarbageCollection\bin\Debug\net7.0\GarbageCollection.deps.json
+D:\Technical\Tasks-Brushup\Task-1\GarbageCollection\bin\Debug\net7.0\GarbageCollection.runtimeconfig.json
+D:\Technical\Tasks-Brushup\Task-1\GarbageCollection\bin\Debug\net7.0\GarbageCollection.dll
+D:\Technical\Tasks-Brushup\Task-1\GarbageCollection\bin\Debug\net7.0\GarbageCollection.pdb
+D:\Technical\Tasks-Brushup\Task-1\GarbageCollection\obj\Debug\net7.0\GarbageCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technical\Tasks-Brushup\Task-1\GarbageCollection\obj\Debug\net7.0\GarbageCollection.AssemblyInfoInputs.cache
+D:\Technical\Tasks-Brushup\Task-1\GarbageCollection\obj\Debug\net7.0\GarbageCollection.AssemblyInfo.cs
+D:\Technical\Tasks-Brushup\Task-1\GarbageCollection\obj\Debug\net7.0\GarbageCollection.csproj.CoreCompileInputs.cache
+D:\Technical\Tasks-Brushup\Task-1\GarbageCollection\obj\Debug\net7.0\GarbageCollection.sourcelink.json
+D:\Technical\Tasks-Brushup\Task-1\GarbageCollection\obj\Debug\net7.0\GarbageCollection.dll
+D:\Technical\Tasks-Brushup\Task-1\GarbageCollection\obj\Debug\net7.0\refint\GarbageCollection.dll
+D:\Technical\Tasks-Brushup\Task-1\GarbageCollection\obj\Debug\net7.0\GarbageCollection.pdb
+D:\Technical\Tasks-Brushup\Task-1\GarbageCollection\obj\Debug\net7.0\GarbageCollection.genruntimeconfig.cache
+D:\Technical\Tasks-Brushup\Task-1\GarbageCollection\obj\Debug\net7.0\ref\GarbageCollection.dll

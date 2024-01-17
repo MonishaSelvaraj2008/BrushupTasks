@@ -1,0 +1,49 @@
+
+<form>
+  <h2>{{ mode }} Reservation Form</h2>
+
+  <div class="form-group">
+    <label for="roomType">Room/Suite Type:</label>
+    <select id="roomType" name="roomType" [(ngModel)]="roomType" required>
+      <option value="" disabled selected>Select Room/Suite</option>
+      <!-- Add room/suite options here -->
+    </select>
+  </div>
+
+  <div class="form-group">
+    <label for="numRooms">Number of Room/Suite:</label>
+    <select id="numRooms" name="numRooms" [(ngModel)]="numRooms" required>
+      <option value="" disabled selected>0</option>
+      <!-- Add room/suite quantity options here -->
+    </select>
+  </div>
+
+  <div class="form-group">
+    <label for="numPersons">Number of Persons:</label>
+    <select id="numPersons" name="numPersons" [(ngModel)]="numPersons" required>
+      <option value="" disabled selected>0</option>
+      <!-- Add person quantity options here -->
+    </select>
+  </div>
+
+  <div class="form-group">
+    <label for="numChildren">Number of Children:</label>
+    <select id="numChildren" name="numChildren" [(ngModel)]="numChildren" required>
+      <option value="" disabled selected>0</option>
+      <!-- Add children quantity options here -->
+    </select>
+  </div>
+
+  <div class="form-group">
+    <label for="restaurantFacilities">Restaurant Facilities:</label>
+    <select id="restaurantFacilities" name="restaurantFacilities" [(ngModel)]="restaurantFacilities" required>
+      <option value="" disabled selected>Do you need any facilities</option>
+      <!-- Add restaurant facilities options here -->
+    </select>
+  </div>
+
+  <div class="form-group">
+    <label>Total Cost($): </label>
+    <button type="button" class="purple-button">0</button>
+  </div>
+</form>

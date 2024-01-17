@@ -1,0 +1,34 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: yellow;
+  }
+  
+  tr {
+    background-color: rgb(80, 236, 80);
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  table {
+    width: 70%;
+    margin-top: 20px;
+    border-collapse: collapse;
+  }

@@ -1,0 +1,29 @@
+<app-header></app-header>
+
+<div class="container">
+  <div class="box-container">
+    
+    <div class="box" (click)="onModeSelect('Flight')">FLIGHT BOOKING</div>
+    <div class="box" (click)="onModeSelect('Bus')">BUS BOOKING</div>
+    <div class="box" (click)="onModeSelect('Car')">CAR BOOKING</div>
+    <div class="box" (click)="onModeSelect('Hotel')">HOTEL BOOKING</div>
+
+  </div>
+
+  <div *ngIf="selectedMode !== ''" class="center-container">
+    <app-booking-form [mode]="selectedMode"></app-booking-form>
+  </div>
+
+  <div class="text-container">
+    <div class="custom-text">
+      <h2>Where?</h2>
+      <p>You can reach Us for travel any location</p>
+      <h2>When?</h2>
+      <p>You can reach Us for plan your trip</p>
+      <h2>Where?</h2>
+      <p>You can reach Us for FLIGHT over Country</p>
+    </div>
+  </div>
+</div>
+
+<app-footer></app-footer>

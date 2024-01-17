@@ -1,0 +1,26 @@
+<div>
+  <h2>Employee Details</h2>
+  <table>
+    <thead>
+      <tr>
+        <th [style.background-color]="showColumns['empId'] ? 'yellow' : 'transparent'">EMP Id</th>
+        <th [style.background-color]="showColumns['empName'] ? 'yellow' : 'transparent'">EMP Name</th>
+        <th [style.background-color]="showColumns['designation'] ? 'yellow' : 'transparent'">Designation</th>
+        <th [style.background-color]="showColumns['location'] ? 'yellow' : 'transparent'">Location</th>
+        <th [style.background-color]="showColumns['address'] ? 'yellow' : 'transparent'">Address</th>
+        <th *ngIf="showColumns['salary']" [style.background-color]="'yellow'">Salary</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let employee of employeeDetails">
+        <td *ngIf="showColumns['empId']">{{ employee.empId }}</td>
+        <td *ngIf="showColumns['empName']">{{ employee.empName }}</td>
+        <td *ngIf="showColumns['designation']">{{ employee.designation }}</td>
+        <td *ngIf="showColumns['location']">{{ employee.location }}</td>
+        <td *ngIf="showColumns['address']">{{ employee.address }}</td>
+        <td *ngIf="showColumns['salary']">{{ employee.salary }}</td>
+      </tr>
+    </tbody>
+  </table>
+  <button *ngIf="showColumns['salary']" (click)="toggleColumn('salary')">Hide</button>
+</div>

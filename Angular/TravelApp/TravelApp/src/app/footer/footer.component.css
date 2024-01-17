@@ -1,0 +1,17 @@
+/* footer.component.css */
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+.footer {
+  background-color: rgb(22, 157, 210);
+  text-align: center;
+  padding: 10px;
+  color: white;
+  width: 100vw; /* Use 100vw to ensure the full viewport width */
+  /*position: absolute; /* Position the footer absolutely */
+  bottom: 0; /* Place it at the bottom of the viewport */
+  left: 0; /* Align it to the left */
+  box-sizing: border-box; /* Include padding and border in the element's total width */
+}

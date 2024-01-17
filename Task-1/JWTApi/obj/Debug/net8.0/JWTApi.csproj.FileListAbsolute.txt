@@ -1,0 +1,84 @@
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\bin\Debug\net8.0\appsettings.Development.json
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\bin\Debug\net8.0\appsettings.json
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\bin\Debug\net8.0\JWTApi.exe
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\bin\Debug\net8.0\JWTApi.deps.json
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\bin\Debug\net8.0\JWTApi.runtimeconfig.json
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\bin\Debug\net8.0\JWTApi.dll
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\bin\Debug\net8.0\JWTApi.pdb
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\obj\Debug\net8.0\JWTApi.csproj.AssemblyReference.cache
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\obj\Debug\net8.0\JWTApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\obj\Debug\net8.0\JWTApi.AssemblyInfoInputs.cache
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\obj\Debug\net8.0\JWTApi.AssemblyInfo.cs
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\obj\Debug\net8.0\JWTApi.csproj.CoreCompileInputs.cache
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\obj\Debug\net8.0\JWTApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\obj\Debug\net8.0\JWTApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\obj\Debug\net8.0\JWTApi.sourcelink.json
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\obj\Debug\net8.0\staticwebassets\msbuild.JWTApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\obj\Debug\net8.0\staticwebassets\msbuild.build.JWTApi.props
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.JWTApi.props
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.JWTApi.props
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\obj\Debug\net8.0\scopedcss\bundle\JWTApi.styles.css
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\obj\Debug\net8.0\JWTApi.csproj.CopyComplete
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\obj\Debug\net8.0\JWTApi.dll
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\obj\Debug\net8.0\refint\JWTApi.dll
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\obj\Debug\net8.0\JWTApi.pdb
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\obj\Debug\net8.0\JWTApi.genruntimeconfig.cache
+D:\Technical\TASKS\Code for Practice\WebAPI\JWTApi\obj\Debug\net8.0\ref\JWTApi.dll
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\bin\Debug\net8.0\appsettings.Development.json
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\bin\Debug\net8.0\appsettings.json
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\bin\Debug\net8.0\JWTApi.exe
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\bin\Debug\net8.0\JWTApi.deps.json
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\bin\Debug\net8.0\JWTApi.runtimeconfig.json
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\bin\Debug\net8.0\JWTApi.dll
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\bin\Debug\net8.0\JWTApi.pdb
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\obj\Debug\net8.0\JWTApi.csproj.AssemblyReference.cache
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\obj\Debug\net8.0\JWTApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\obj\Debug\net8.0\JWTApi.AssemblyInfoInputs.cache
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\obj\Debug\net8.0\JWTApi.AssemblyInfo.cs
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\obj\Debug\net8.0\JWTApi.csproj.CoreCompileInputs.cache
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\obj\Debug\net8.0\JWTApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\obj\Debug\net8.0\JWTApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\obj\Debug\net8.0\JWTApi.sourcelink.json
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\obj\Debug\net8.0\staticwebassets\msbuild.JWTApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\obj\Debug\net8.0\staticwebassets\msbuild.build.JWTApi.props
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.JWTApi.props
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.JWTApi.props
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\obj\Debug\net8.0\scopedcss\bundle\JWTApi.styles.css
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\obj\Debug\net8.0\JWTApi.csproj.CopyComplete
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\obj\Debug\net8.0\JWTApi.dll
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\obj\Debug\net8.0\refint\JWTApi.dll
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\obj\Debug\net8.0\JWTApi.pdb
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\obj\Debug\net8.0\JWTApi.genruntimeconfig.cache
+D:\Technical\Tasks-Brushup\Task-1\JWTApi\obj\Debug\net8.0\ref\JWTApi.dll
