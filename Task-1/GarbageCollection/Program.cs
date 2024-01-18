@@ -36,12 +36,7 @@ public class DisposableResource : IDisposable
 
         Console.WriteLine("Performing operation with disposable resource.");
 
-        // Simulate an error condition (replace this with your specific error condition)
-        if (DateTime.Now.Second % 2 == 0)
-        {
-            string errorDetails = "Additional details about the error.";
-            throw new ResourceOperationException("Error during the operation with disposable resource.", errorDetails);
-        }
+       
     }
 
     protected virtual void Dispose(bool disposing)
