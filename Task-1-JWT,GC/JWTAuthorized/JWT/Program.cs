@@ -1,3 +1,10 @@
+//Title: JWT
+//Author: Monisha S
+//Created at: 10/01/2024
+//Updated at: 18/10/2024
+//Reviewed by: Sabapathy Shanmugham
+//Reviewed at: 18/10/2024
+
 using JWTAuth.Business;
 using JWTAuth.Business.AuthService.Implementation;
 using JWTAuth.Business.AuthService.Interface;
@@ -7,7 +14,7 @@ using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using System.Text;
 
-var builder = WebApplication.CreateBuilder(args);
+var builder = WebApplication.CreateBuilder(args);//building and configuring the web application
 
 builder.Services.AddDbContext<ApplicationDbContext>(opt => opt.UseInMemoryDatabase("UsersList"));
 builder.Services.AddControllers();
@@ -18,9 +25,9 @@ builder.Services.AddAuthentication(opt =>
     opt.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
 })
 .AddJwtBearer(opt =>
-{   // for development only
-    opt.RequireHttpsMetadata = false;
-    opt.SaveToken = true;
+{   
+    opt.RequireHttpsMetadata = false;//allows http
+    opt.SaveToken = true;//token received in the request will be stored
     opt.TokenValidationParameters = new TokenValidationParameters
     {
         ValidateIssuerSigningKey = true,
@@ -36,9 +43,9 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c => {
     c.SwaggerDoc("v1", new OpenApiInfo
     {
-        Title = "JWT Auth Sample",
+        Title = "JWT",
         Version = "v1"
-    });
+    });//API documentation
     c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme()
     {
         Name = "Authorization",
@@ -56,7 +63,7 @@ builder.Services.AddSwaggerGen(c => {
                         Id = "Bearer"
                 }
             },
-            new string[] {}
+            new string[] {}//specifies the list of scopes required for the security scheme
         }
     });
 });

@@ -5,7 +5,7 @@ namespace JWTAuth.Models
     public class User
     {
         [Key]
-        public string UserName { get; set; } = "";
+        public string UserName { get; set; } = "";//The property is set to an empty string as a default value
         public string Name { get; set; } = "";
         public string Role { get; set; } = "Everyone";
         public bool IsActive { get; set; } = false;

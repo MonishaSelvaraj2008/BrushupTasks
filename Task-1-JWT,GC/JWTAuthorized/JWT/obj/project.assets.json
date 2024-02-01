@@ -1372,11 +1372,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\monisha.selvaraj\\Desktop\\JWTAuthentication\\JWT\\JWTAuth.csproj",
+      "projectUniqueName": "D:\\Technical\\Tasks-Brushup\\Task-1-JWT,GC\\JWTAuthorized\\JWT\\JWTAuth.csproj",
       "projectName": "JWTAuth",
-      "projectPath": "C:\\Users\\monisha.selvaraj\\Desktop\\JWTAuthentication\\JWT\\JWTAuth.csproj",
+      "projectPath": "D:\\Technical\\Tasks-Brushup\\Task-1-JWT,GC\\JWTAuthorized\\JWT\\JWTAuth.csproj",
       "packagesPath": "C:\\Users\\monisha.selvaraj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\monisha.selvaraj\\Desktop\\JWTAuthentication\\JWT\\obj\\",
+      "outputPath": "D:\\Technical\\Tasks-Brushup\\Task-1-JWT,GC\\JWTAuthorized\\JWT\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\monisha.selvaraj\\AppData\\Roaming\\NuGet\\NuGet.Config"
